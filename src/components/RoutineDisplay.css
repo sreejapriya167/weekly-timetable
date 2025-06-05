@@ -1,0 +1,59 @@
+.routine-container {
+  padding: 1rem;
+  text-align: center;
+}
+
+.routine-item {
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 15px;
+  border-radius: 12px;
+  margin: 15px 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  cursor: context-menu;
+}
+
+.routine-time {
+  color: white;
+  margin-bottom: 10px;
+}
+
+.routine-tasks {
+  list-style-type: disc;
+  text-align: left;
+  margin-left: 20px;
+  padding-left: 20px;
+  color: #ffffffd0;
+}
+
+.routine-form input {
+  margin: 8px;
+  padding: 8px;
+  border-radius: 6px;
+  border: none;
+}
+
+.fade-button {
+  background-color: magenta;
+  color: black;
+  padding: 8px 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.fade-button:hover {
+  background-color: turquoise;
+}
+
+.back-button {
+  align-self: flex-start;
+  margin-bottom: 1rem;
+  background-color: transparent;
+  color: turquoise;
+  border: none;
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 0;
+}
