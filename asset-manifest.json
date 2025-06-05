@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weekly-timetable/static/css/main.2b97d888.css",
+    "main.js": "/weekly-timetable/static/js/main.63aedad2.js",
+    "static/js/453.2a014060.chunk.js": "/weekly-timetable/static/js/453.2a014060.chunk.js",
+    "index.html": "/weekly-timetable/index.html",
+    "main.2b97d888.css.map": "/weekly-timetable/static/css/main.2b97d888.css.map",
+    "main.63aedad2.js.map": "/weekly-timetable/static/js/main.63aedad2.js.map",
+    "453.2a014060.chunk.js.map": "/weekly-timetable/static/js/453.2a014060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b97d888.css",
+    "static/js/main.63aedad2.js"
+  ]
+}
